@@ -15,8 +15,11 @@ A Notes management app to manage expenses with category-wise limits.
 - React Icons
 
 ## Screenshots
+-Desktop Responsive
 ![alt text](image.png)
+-Mobile Responsive
 ![alt text](image-1.png)
+-Empty Card
 ![alt text](image-2.png)
 ## Setup
 npm install
