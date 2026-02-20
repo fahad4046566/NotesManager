@@ -23,4 +23,4 @@ npm install
 npm run dev
 
 ## Live Demo
-[Link after deployment]
+(https://github.com/fahad4046566/NotesManager)
